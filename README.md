@@ -2,12 +2,16 @@
 
 My Repositories is under Construction
 
-### My Website
+### Info
 
 ```markdown
-*Site is under construction*
-visit [www.freaknest.tk](https://www.freaknest.tk) for my main website
+***Site is under construction***
+Thank you for visiting!
 ```
 ### Support or Contact
 
 Having Trouble? [Contact me!](mailto:gamersia4@gmail.com)
+
+### Main Website
+
+Visit my Main Website at [FREAKNEST.TK](https://www.freaknest.tk)
